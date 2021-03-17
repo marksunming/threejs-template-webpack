@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow: hidden;
+  height: 100vh;
+}
+
+.container {
+  height: 100%;
+  background-color: skyblue;
+}
+
+
+/*# sourceMappingURL=main.css.map*/
