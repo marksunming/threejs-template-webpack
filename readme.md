@@ -1,6 +1,7 @@
 # Three.js Starter
 
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
+
 Courtesy of Lewy Blue of https://discoverthreejs.com/
 
 ## Setup
